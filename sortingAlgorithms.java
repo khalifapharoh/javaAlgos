@@ -1,7 +1,6 @@
 /*
     A combination of the most used Algorithms.
  */
-package selectionsort;
 
 /**
  * @author KhalifaPharoh
