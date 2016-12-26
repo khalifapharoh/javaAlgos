@@ -1,5 +1,5 @@
 /*
-    A combination of the most used Algorithms.
+    A combination of the most Sorting used Algorithms.
  */
 
 /**
