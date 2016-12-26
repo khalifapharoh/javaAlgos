@@ -4,7 +4,7 @@
 
 /**
  *
- * @author Khalifa
+ * @author Khalifapharoh
  */
 public class searchingAlgorithms {
     public static boolean linearSearch(int[] numbers, int value)
